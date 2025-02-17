@@ -9,11 +9,11 @@ Instead, we expect to help organizations identify Typescript knowledge gaps and 
 ## Familiarity Assessment Survey
 
 1. How would you rate your TypeScript experience? (choose one)
-   - [ ] Never used
-   - [ ] Basic understanding (can read code)
-   - [ ] Some experience (used in small features)
-   - [ ] Comfortable (built full applications)
-   - [ ] Expert level
+   - ( ) Never used
+   - ( ) Basic understanding (can read code)
+   - ( ) Some experience (used in small features)
+   - ( ) Comfortable (built full applications)
+   - ( ) Expert level
 
 2. Which TypeScript/JavaScript features have you used? (select all that apply)
    - [ ] Interfaces and type annotations
