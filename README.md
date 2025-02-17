@@ -60,9 +60,10 @@ Instead, we expect to help organizations identify Typescript knowledge gaps and 
    - [ ] Functional programming with types
    - [ ] Module architecture patterns
 
-8. Which enterprise TypeScript patterns interest you? (select all that apply)
-   - [ ] Type-safe API contracts
-   - [ ] Monorepo management
-   - [ ] Microservice architectures
-   - [ ] State management patterns
-   - [ ] Integration with .NET backends
+8. Which modern TypeScript/JavaScript concepts interest you most? (select all that apply)
+   - [ ] Functional programming approaches
+   - [ ] React and its type system
+   - [ ] Modern build pipelines
+   - [ ] Package publishing and versioning
+   - [ ] Microservices with TypeScript
+         
